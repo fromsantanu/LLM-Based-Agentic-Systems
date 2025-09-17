@@ -1,4 +1,4 @@
-# LLM Based Agentic Systems
+# Designing LLM Based Agentic Systems
 
 ## Table of Contents
 - [Understanding LLMs](#)
