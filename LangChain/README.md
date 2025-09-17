@@ -132,4 +132,3 @@
 ---
 
 
-Would you like me to **draft it as a course outline (with modules/lessons)** — like a table of contents for a book/course — or keep it as a **topic checklist** like above?
