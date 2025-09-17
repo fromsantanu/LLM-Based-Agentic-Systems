@@ -1,7 +1,7 @@
 # Designing LLM Based Agentic Systems
 
 ## Table of Contents
-- [Understanding LLMs](#)
+- [Understanding LLMs](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md)
 - [Prompt Engineering](#)
 - [Developing Agentic Systems with Python and Langchain](#)
 - [Designing and Developing Agentic System with N8N](#)
