@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Understanding LLMs](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md)
-- [Prompt Engineering](#)
+- [Prompt Engineering](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md)
 - [Developing Agentic Systems with Python and Langchain](#)
 - [Designing and Developing Agentic System with N8N](#)
 - [Understanding Chroma Vector DB](#)
