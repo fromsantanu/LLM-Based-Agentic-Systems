@@ -1,4 +1,4 @@
-# 📘 Prompt Engineering for ChatGPT – Topics
+# 📘 Prompt Engineering for ChatGPT
 
 ## 1. [Introduction to Prompt Engineering](#)
 
