@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Foundations of LLMs
+## 1. [Foundations of LLMs](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p1.md)
 
 * What is a Large Language Model (LLM)?
 * History of language models (n-grams → RNNs → LSTMs → Transformers)
