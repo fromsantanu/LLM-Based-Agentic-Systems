@@ -13,7 +13,7 @@
 
 ---
 
-## 2. Training and Optimization
+## 2. [Training and Optimization](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p2.md)
 
 * Pretraining on massive text corpora
 * Objectives: Next Token Prediction vs Masked Language Modeling
@@ -24,7 +24,7 @@
 
 ---
 
-## 3. Core Capabilities
+## 3. [Core Capabilities](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p3.md)
 
 * Text generation (next-word prediction)
 * Summarization and paraphrasing
@@ -35,7 +35,7 @@
 
 ---
 
-## 4. Prompting and Interaction
+## 4. [Prompting and Interaction](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p4.md)
 
 * Zero-shot, one-shot, and few-shot prompting
 * Prompt engineering basics
@@ -45,7 +45,7 @@
 
 ---
 
-## 5. Using LLMs in Applications
+## 5. [Using LLMs in Applications](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p5.md)
 
 * Chatbots and conversational agents
 * Retrieval-Augmented Generation (RAG) with vector databases
@@ -57,7 +57,7 @@
 
 ---
 
-## 6. Evaluation and Performance
+## 6. [Evaluation and Performance](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p6.md)
 
 * Perplexity and accuracy metrics
 * Benchmarks: MMLU, BIG-bench, HumanEval
@@ -67,7 +67,7 @@
 
 ---
 
-## 7. Infrastructure and Deployment
+## 7. [Infrastructure and Deployment](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p7.md)
 
 * Running LLMs locally vs via API
 * Cloud platforms (OpenAI, Anthropic, Google, HuggingFace)
@@ -77,7 +77,7 @@
 
 ---
 
-## 8. Advanced Topics
+## 8. [Advanced Topics](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p8.md)
 
 * Multimodal LLMs (text + image + audio + video)
 * Fine-tuning with LoRA and PEFT methods
@@ -88,7 +88,7 @@
 
 ---
 
-## 9. Societal and Ethical Considerations
+## 9. [Societal and Ethical Considerations](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p9.md)
 
 * AI alignment and safety concerns
 * Bias, fairness, and representation in training data
@@ -98,7 +98,7 @@
 
 ---
 
-## 10. Future of LLMs
+## 10. [Future of LLMs](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/p10.md)
 
 * Trends in scaling and efficiency (smaller but smarter models)
 * Specialized domain LLMs (legal, medical, scientific)
