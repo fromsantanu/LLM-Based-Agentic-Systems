@@ -90,5 +90,3 @@
 * Integration with agentic AI systems
 
 ---
-
-), or should I prepare it in a **step-by-step tutorial style** (with code + exercises)?
