@@ -1,4 +1,4 @@
-# 📘 Topics: *Model Context Protocol (MCP)
+# 📘 Topics: **Model Context Protocol (MCP)**
 
 ## 1. [Introduction to MCP](#)
 
