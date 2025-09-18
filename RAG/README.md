@@ -1,4 +1,4 @@
-# **Understanding Retrieval-Augmented Generation (RAG)**
+# **Retrieval-Augmented Generation (RAG)**
 
 ## 1. [Foundations of RAG](#)
 
