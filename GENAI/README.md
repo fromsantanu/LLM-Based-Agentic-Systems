@@ -35,7 +35,7 @@
 * Education (personalized learning, tutoring)
 * Business and Productivity (summarization, chatbots)
 
-### 6. [Challenges and Risks]([#](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/p06.md))
+### 6. [Challenges and Risks](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/p06.md)
 
 * Hallucinations and Reliability Issues
 * Ethical Concerns: Bias, Misinformation, Deepfakes
