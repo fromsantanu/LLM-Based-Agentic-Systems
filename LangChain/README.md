@@ -1,6 +1,6 @@
 # 📘 **Agentic AI with Python and LangChain**
 
-## 1. [Introduction to Agentic AI](#)
+## 1. [Introduction to Agentic AI](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p01.md)
 
 * What is Agentic AI?
 * Difference between AI, Agents, and Agentic AI
@@ -9,7 +9,7 @@
 
 ---
 
-## 2. [Python Foundations for LangChain](#)
+## 2. [Python Foundations for LangChain](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p02.md)
 
 * Setting up Python environment (venv/conda, dependencies)
 * Essential Python libraries for Agentic AI: `langchain`, `openai`, `chromadb`, `qdrant`, `faiss`
@@ -17,7 +17,7 @@
 
 ---
 
-## 3. [LangChain Core Concepts](#)
+## 3. [LangChain Core Concepts](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p03.md)
 
 * Chains vs Agents vs Tools
 * Prompts, LLMs, and Embeddings
@@ -27,7 +27,7 @@
 
 ---
 
-## 4. [Building Blocks of Agentic AI](#)
+## 4. [Building Blocks of Agentic AI](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p04.md)
 
 * Creating simple chains (LLMChain, SequentialChain)
 * Adding tools (Python REPL, Web Search, Calculator)
@@ -37,7 +37,7 @@
 
 ---
 
-## 5. [Working with Vector Databases](#)
+## 5. [Working with Vector Databases](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p05.md)
 
 * Why agents need memory beyond context length
 * Setting up ChromaDB locally with Python
@@ -47,7 +47,7 @@
 
 ---
 
-## 6. [Retrieval-Augmented Generation (RAG)](#)
+## 6. [Retrieval-Augmented Generation (RAG)](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p06.md)
 
 * Introduction to RAG
 * Designing retrieval pipelines in LangChain
@@ -57,7 +57,7 @@
 
 ---
 
-## 7. [Memory and Context Management](#)
+## 7. [Memory and Context Management](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p07.md)
 
 * Types of memory in LangChain
 * Conversation persistence across sessions
@@ -66,7 +66,7 @@
 
 ---
 
-## 8. [Tool Integration](#)
+## 8. [Tool Integration](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p08.md)
 
 * Adding built-in tools (SerpAPI, Wikipedia, Math)
 * Creating custom tools in Python
@@ -75,7 +75,7 @@
 
 ---
 
-## 9. [Multi-Agent Systems](#)
+## 9. [Multi-Agent Systems](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p09.md)
 
 * What are multi-agent systems?
 * Designing hierarchical agents (Supervisor → Worker)
@@ -85,7 +85,7 @@
 
 ---
 
-## 10. [Advanced Agent Architectures](#)
+## 10. [Advanced Agent Architectures](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p10.md)
 
 * Routing Agents (choosing the right expert agent)
 * ReAct (Reason + Act) pattern in LangChain
@@ -94,7 +94,7 @@
 
 ---
 
-## 11. [Real-World Case Studies](#)
+## 11. [Real-World Case Studies](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p11.md)
 
 * Healthcare Assistant Agent (diagnosis → treatment → monitoring)
 * Financial Research Agent (summarization + analysis + reporting)
@@ -103,7 +103,7 @@
 
 ---
 
-## 12. [Deployment and Scaling](#)
+## 12. [Deployment and Scaling](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p12.md)
 
 * Deploying LangChain apps with FastAPI / Flask
 * Streamlit for interactive UI
@@ -113,7 +113,7 @@
 
 ---
 
-## 13. [Security, Ethics, and Governance](#)
+## 13. [Security, Ethics, and Governance](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p13.md)
 
 * Data privacy & compliance (GDPR, HIPAA in healthcare)
 * Preventing prompt injection attacks
@@ -122,7 +122,7 @@
 
 ---
 
-## 14. [Future of Agentic AI](#)
+## 14. [Future of Agentic AI](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/p14.md)
 
 * Integration with speech (ASR + TTS agents)
 * Multi-modal agents (text, images, voice, video)
