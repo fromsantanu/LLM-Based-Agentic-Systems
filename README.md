@@ -1,7 +1,7 @@
 # Designing LLM Based Agentic Systems
 
 ## Table of Contents
-- [Introduction to Generative AI](#)
+- [Introduction to Generative AI](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/README.md)
 - [Understanding LLMs](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md)
 - [Prompt Engineering](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md)
 - [Principles of Agentic Systems](#)
