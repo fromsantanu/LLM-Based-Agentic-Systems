@@ -4,7 +4,7 @@
 - [Introduction to Generative AI](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/GENAI/README.md)
 - [Understanding LLMs](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LLM/README.md)
 - [Prompt Engineering](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/PROMPT/README.md)
-- [Principles of Agentic Systems](#)
+- [Principles of Agentic Systems](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/AGENTSYS/README.md)
 - [Developing Agentic Systems with Python and Langchain](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
 - [Designing and Developing Agentic System with N8N](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 - [Understanding Retrieval Augmented Generation (RAG)](#)
