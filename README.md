@@ -7,7 +7,7 @@
 - [Principles of Agentic Systems](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/AGENTSYS/README.md)
 - [Developing Agentic Systems with Python and Langchain](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
 - [Designing and Developing Agentic System with N8N](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
-- [Understanding Retrieval Augmented Generation (RAG)](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
+- [Retrieval Augmented Generation (RAG)](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
 - [Learning ChromaDB with Python](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/README.md)
 - [Understanding Qdrant Vector DB](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
 - [Model Context Protocol (MCP)](#)
