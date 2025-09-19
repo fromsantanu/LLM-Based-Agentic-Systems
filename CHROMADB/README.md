@@ -100,9 +100,5 @@
 
 ---
 
-⚡ **By the time you finish these, you’ll be able to:**
 
-1. Use ChromaDB as your vector database in Python projects.
-2. Integrate it with LLMs for RAG pipelines.
-3. Optimize and scale for real-world applications.
 
