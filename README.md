@@ -1,6 +1,8 @@
 
 # 📘 Roadmap: Designing and Developing LLM-based Agentic Systems
 
+---
+
 ## 🌱 Beginner Level (Foundations)
 
 Goal: Build conceptual clarity about LLMs, Generative AI, and what “agentic systems” mean.
