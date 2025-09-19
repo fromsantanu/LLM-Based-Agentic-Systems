@@ -1,6 +1,6 @@
 # 📝 **Learning ChromaDB with Python**
 
-## 1. [**Introduction & Setup**](#)
+## 1. [**Introduction & Setup**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p01.md)
 
 * What is ChromaDB?
 * Use cases of ChromaDB (AI, RAG, semantic search, etc.)
@@ -9,7 +9,7 @@
 
 ---
 
-## 2. [**Core Concepts**](#)
+## 2. [**Core Concepts**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p02.md)
 
 * Vector embeddings and their role in ChromaDB
 * Collections in ChromaDB
@@ -18,7 +18,7 @@
 
 ---
 
-## 3. [**Basic Usage in Python**](#)
+## 3. [**Basic Usage in Python**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p03.md)
 
 * Connecting to Chroma (client setup)
 * Creating a collection
@@ -28,7 +28,7 @@
 
 ---
 
-## 4. [**Working with Embeddings**](#)
+## 4. [**Working with Embeddings**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p04.md)
 
 * Using OpenAI embeddings with ChromaDB
 * Using other embedding models (Sentence Transformers, HuggingFace)
@@ -37,7 +37,7 @@
 
 ---
 
-## 5. [**CRUD Operations**](#)
+## 5. [**CRUD Operations**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p05.md)
 
 * Insert documents with `add()`
 * Update documents with `update()`
@@ -46,7 +46,7 @@
 
 ---
 
-## 6. [**Querying in Depth**](#)
+## 6. [**Querying in Depth**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p06.md)
 
 * Similarity search with `query()`
 * Filtering by metadata
@@ -55,7 +55,7 @@
 
 ---
 
-## 7. [**Persistence & Deployment**](#)
+## 7. [**Persistence & Deployment**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p07.md)
 
 * Persistent storage (SQLite backend)
 * Using Chroma with Docker
@@ -64,7 +64,7 @@
 
 ---
 
-## 8. [**Integration with Python Workflows**](#)
+## 8. [**Integration with Python Workflows**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p08.md)
 
 * Building a RAG (Retrieval-Augmented Generation) pipeline
 * Using Chroma with LangChain
@@ -73,7 +73,7 @@
 
 ---
 
-## 9. [**Performance & Scaling**](#)
+## 9. [**Performance & Scaling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p09.md)
 
 * Indexing strategies
 * Batch inserts and queries
@@ -82,7 +82,7 @@
 
 ---
 
-## 10. [**Advanced Topics**](#)
+## 10. [**Advanced Topics**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p10.md)
 
 * Custom embedding functions
 * Hybrid search (text + vectors)
@@ -91,7 +91,7 @@
 
 ---
 
-## 11. [**Case Studies & Projects**](#)
+## 11. [**Case Studies & Projects**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/p11.md)
 
 * Semantic search over PDFs
 * Building a Q\&A bot with ChromaDB + OpenAI
