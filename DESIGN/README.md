@@ -6,7 +6,7 @@ Here’s a list of **20 commonly used agentic design patterns**:
 
 ---
 
-## **Core Agent Patterns**
+## [**Core Agent Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/edit/main/DESIGN/p01.md)
 
 1. **Single-Agent Pattern** – One agent handles all tasks (simple Q\&A or retrieval).
 2. **Multi-Agent Collaboration** – Multiple agents with specialized roles (e.g., doctor agent + diagnostic agent).
@@ -16,7 +16,7 @@ Here’s a list of **20 commonly used agentic design patterns**:
 
 ---
 
-## **Memory & Context Patterns**
+## [**Memory & Context Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/edit/main/DESIGN/p02.md)
 
 6. **Conversation Memory Pattern** – Agent maintains past dialogue for context.
 7. **Scratchpad / Chain-of-Thought Pattern** – Use intermediate reasoning steps before final output.
@@ -26,7 +26,7 @@ Here’s a list of **20 commonly used agentic design patterns**:
 
 ---
 
-## **Task Execution Patterns**
+## [**Task Execution Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/edit/main/DESIGN/p03.md)
 
 11. **ReAct (Reason + Act) Pattern** – Agent alternates between reasoning and taking actions/tools.
 12. **Plan-and-Execute Pattern** – Agent first drafts a plan, then executes step-by-step.
@@ -36,7 +36,7 @@ Here’s a list of **20 commonly used agentic design patterns**:
 
 ---
 
-## **Interaction & Workflow Patterns**
+## [**Interaction & Workflow Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/edit/main/DESIGN/p04.md)
 
 16. **Human-in-the-Loop Pattern** – Agent pauses to ask user for approval or guidance.
 17. **Parallel Agent Pattern** – Multiple agents work concurrently on subtasks, results are merged.
