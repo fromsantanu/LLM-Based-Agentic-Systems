@@ -1,6 +1,6 @@
 
-# 📘 Roadmap: Designing and Developing LLM-based Agentic Systems
-
+# 📘 Designing and Developing LLM-based Agentic Systems
+Complete roadmap and tutorials for designing and developing Agentic Systems supported by LLMs.
 ---
 
 ## 🌱 Beginner Level (Foundations)
