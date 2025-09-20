@@ -64,7 +64,7 @@ Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 
 10. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
 
-   * Alternative to Chroma, scaling, advanced indexing.
+    * Alternative to Chroma, scaling, advanced indexing.
 
 11. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
 
