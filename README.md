@@ -43,7 +43,7 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
    * No-code workflows.
    * Integrating AI blocks, APIs, and external services.
   
-7. 6. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
+7. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
    * Twenty proven architecture that had been found to be easy and efficient.
    * Categorized under four different categories
