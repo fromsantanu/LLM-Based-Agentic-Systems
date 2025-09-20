@@ -45,8 +45,8 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
   
 7. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
-   * Twenty proven architecture that had been found to be easy and efficient.
-   * Categorized under four different categories
+   * Twenty proven strategies that had been found to be easy to design and working efficiently.
+   * Categorized under four different groups
 ---
 
 ## 🚀 Advanced Level (Scalable, Connected Systems)
