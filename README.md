@@ -42,31 +42,35 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
 
    * No-code workflows.
    * Integrating AI blocks, APIs, and external services.
+  
+7. 6. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
+   * Twenty proven architecture that had been found to be easy and efficient.
+   * Categorized under four different categories
 ---
 
 ## 🚀 Advanced Level (Scalable, Connected Systems)
 
 Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 
-7. [**Retrieval Augmented Generation (RAG)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
+8. [**Retrieval Augmented Generation (RAG)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
 
    * Why retrieval is critical.
    * Architecture: embeddings → vector DB → retrieval → augmentation.
 
-8. [**Learning ChromaDB with Python**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/README.md)
+9. [**Learning ChromaDB with Python**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/README.md)
 
    * Setup, storing embeddings, querying.
 
-9. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
+10. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
 
    * Alternative to Chroma, scaling, advanced indexing.
 
-10. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
+11. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
 
     * Why MCP matters (standardization of tool/agent interactions).
 
-11. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
+12. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
 
     * How MCP integrates with LangChain/N8N.
     * Real-world interoperability.
