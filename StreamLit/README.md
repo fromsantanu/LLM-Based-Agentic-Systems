@@ -1,6 +1,6 @@
 # 📘 Topics to Introduce Streamlit in the Context of Agentic Systems
 
-### 1. **Introduction to Streamlit**
+### [1. **Introduction to Streamlit**](#)
 
 * What is Streamlit and why it is popular for rapid prototyping?
 * Why it is suitable for **Agentic Systems** (interactive UI for agents, low-code dashboarding, easy deployment).
@@ -8,7 +8,7 @@
 
 ---
 
-### 2. **Streamlit Basics for Agent Interaction**
+### [2. **Streamlit Basics for Agent Interaction**](#)
 
 * Widgets: `st.text_input`, `st.button`, `st.selectbox`, `st.chat_message`.
 * Handling input/output flows.
@@ -16,7 +16,7 @@
 
 ---
 
-### 3. **Building a Multi-Agent Dashboard**
+### [3. **Building a Multi-Agent Dashboard**](#)
 
 * Layout management: columns, tabs, sidebars.
 * Displaying multiple agents’ outputs side by side.
@@ -24,7 +24,7 @@
 
 ---
 
-### 4. **Connecting Streamlit with LangChain / LangGraph Agents**
+### [4. **Connecting Streamlit with LangChain / LangGraph Agents**](#)
 
 * Integrating Streamlit front-end with agent back-ends.
 * Sending queries to agents and showing structured results.
@@ -32,7 +32,7 @@
 
 ---
 
-### 5. **Form Handling and Validation for Agent Inputs**
+### [5. **Form Handling and Validation for Agent Inputs**](#)
 
 * Using forms (`st.form`) for structured data capture.
 * Validating patient inputs before passing to agents.
@@ -40,7 +40,7 @@
 
 ---
 
-### 6. **Visualizing Agent Outputs**
+### [6. **Visualizing Agent Outputs**](#)
 
 * Using `st.metric`, `st.progress`, `st.bar_chart`, `st.dataframe`.
 * Presenting agents’ recommendations or analytics clearly.
@@ -48,7 +48,7 @@
 
 ---
 
-### 7. **Session State for Multi-Step Agent Workflows**
+### [7. **Session State for Multi-Step Agent Workflows**](#)
 
 * How to maintain conversation context.
 * Storing intermediate agent decisions.
@@ -56,7 +56,7 @@
 
 ---
 
-### 8. **File Uploads & Reports**
+### [8. **File Uploads & Reports**](#)
 
 * Handling `st.file_uploader` for lab reports or imaging data.
 * Agents parsing uploaded files.
@@ -64,7 +64,7 @@
 
 ---
 
-### 9. **Streaming Responses for Realistic Agent Interaction**
+### [9. **Streaming Responses for Realistic Agent Interaction**](#)
 
 * Using `st.write_stream` for token-by-token streaming.
 * Making agents appear more natural.
@@ -72,7 +72,7 @@
 
 ---
 
-### 10. **Deployment & Sharing of Agentic Apps**
+### [10. **Deployment & Sharing of Agentic Apps**](#)
 
 * Deploying with **Streamlit Cloud**, Docker, or FastAPI hybrid setups.
 * Scaling for production.
