@@ -1,6 +1,6 @@
 # 📘 **LangChain Learning Roadmap (Beginner → Advanced)**
 
-## **1. Getting Started**
+## [**1. Getting Started**](#)
 
 * **What is LangChain?**
 
@@ -14,11 +14,11 @@
 
   * Run your first prompt through LangChain with OpenAI
 
-👉 *Example*: A Python script that asks GPT-4 to summarize a short text.
+👉 *Example*: [A Python script that asks GPT-4 to summarize a short text.](#)
 
 ---
 
-## **2. Core Concepts**
+## [**2. Core Concepts**](#)
 
 * **LLMs and Chat Models**
 
@@ -33,11 +33,11 @@
   * Sequential chains
   * Simple input → output flows
 
-👉 *Example*: Create a Q\&A chain that takes a user’s query and formats it into a predefined prompt.
+👉 *Example*: [Create a Q\&A chain that takes a user’s query and formats it into a predefined prompt.](#)
 
 ---
 
-## **3. Document Handling**
+## [**3. Document Handling**](#)
 
 * **Text Splitters**
 
@@ -52,11 +52,11 @@
 
   * FAISS, Chroma, Pinecone basics
 
-👉 *Example*: Load a PDF research paper, split it into chunks, embed it, and store in FAISS.
+👉 *Example*: [Load a PDF research paper, split it into chunks, embed it, and store in FAISS.](#)
 
 ---
 
-## **4. Retrieval-Augmented Generation (RAG)**
+## [**4. Retrieval-Augmented Generation (RAG)**](#)
 
 * **Retrievers**
 
@@ -69,11 +69,11 @@
 
   * Maintaining context across multiple queries
 
-👉 *Example*: Build a chatbot that answers questions from your personal notes or company FAQs.
+👉 *Example*: [Build a chatbot that answers questions from your personal notes or company FAQs.](#)
 
 ---
 
-## **5. Memory**
+## [**5. Memory**]
 
 * **Types of Memory**
 
@@ -87,11 +87,11 @@
 
   * Local file, database, or Redis integration
 
-👉 *Example*: Create a chatbot that remembers the user’s name and preferences during a session.
+👉 *Example*: [Create a chatbot that remembers the user’s name and preferences during a session.](#)
 
 ---
 
-## **6. Tools & Agents**
+## [**6. Tools & Agents**](#)
 
 * **Tools**
 
@@ -106,11 +106,11 @@
 
   * Google Search, SQL Database, Python REPL
 
-👉 *Example*: An agent that can answer questions, run calculations, and fetch current news.
+👉 *Example*: [An agent that can answer questions, run calculations, and fetch current news.](#)
 
 ---
 
-## **7. Advanced Chains**
+## [**7. Advanced Chains**](#)
 
 * **Sequential vs. Parallel Chains**
 * **Router Chains**
@@ -120,11 +120,11 @@
 
   * Manipulating inputs/outputs dynamically
 
-👉 *Example*: Route math queries to a calculator tool and general queries to an LLM.
+👉 *Example*: [Route math queries to a calculator tool and general queries to an LLM.](#)
 
 ---
 
-## **8. Working with APIs & Data Sources**
+## [**8. Working with APIs & Data Sources**](#)
 
 * **SQL Database Agent**
 
@@ -136,11 +136,11 @@
 
   * Parsing structured outputs
 
-👉 *Example*: Build an agent that queries a weather API and answers user queries in natural language.
+👉 *Example*: [Build an agent that queries a weather API and answers user queries in natural language.](#)
 
 ---
 
-## **9. Evaluation & Debugging**
+## [**9. Evaluation & Debugging**]
 
 * **LangSmith (if available)**
 
@@ -154,11 +154,11 @@
 
   * Graceful fallbacks when LLM calls fail
 
-👉 *Example*: Debug a chatbot that sometimes hallucinates by adding reference citations.
+👉 *Example*: [Debug a chatbot that sometimes hallucinates by adding reference citations.](#)
 
 ---
 
-## **10. Scaling & Deployment**
+## [**10. Scaling & Deployment**]
 
 * **Streaming Responses**
 
@@ -175,11 +175,11 @@
   * Streamlit apps
   * Dockerization
 
-👉 *Example*: Deploy a LangChain-powered chatbot as a FastAPI service with streaming responses.
+👉 *Example*: [Deploy a LangChain-powered chatbot as a FastAPI service with streaming responses.](#)
 
 ---
 
-## **11. Specialized Use Cases**
+## [**11. Specialized Use Cases**](#)
 
 * **RAG with PDFs, Docs, and Multi-format Data**
 * **Multi-Modal Pipelines**
@@ -193,11 +193,11 @@
 
   * LangGraph overview (next-gen workflows)
 
-👉 *Example*: A medical triage bot that retrieves medical guidelines, calls a drug interaction API, and explains results.
+👉 *Example*: [A medical triage bot that retrieves medical guidelines, calls a drug interaction API, and explains results.](#)
 
 ---
 
-## **12. Expert Level**
+## [**12. Expert Level**]
 
 * **Custom Agents with Policies**
 
@@ -215,7 +215,7 @@
 
   * Compare LangChain vs direct API vs alternatives
 
-👉 *Example*: A production-ready healthcare assistant that supports diagnostics, fetches labs via API, and maintains patient case history across sessions.
+👉 *Example*: [A production-ready healthcare assistant that supports diagnostics, fetches labs via API, and maintains patient case history across sessions.](#)
 
 ---
 
