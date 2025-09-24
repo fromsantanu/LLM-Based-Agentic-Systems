@@ -67,8 +67,8 @@ It is always better to follow *Best Practices*
   
 10. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
-   * Twenty proven strategies that had been found to be easy to design and working efficiently.
-   * Categorized under four different groups
+    * Twenty proven strategies that had been found to be easy to design and working efficiently.
+    * Categorized under four different groups
 ---
 
 ## 🚀 Advanced Level (Scalable, Connected Systems)
