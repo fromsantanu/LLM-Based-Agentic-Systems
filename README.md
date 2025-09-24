@@ -83,7 +83,7 @@ Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 ## 🎯 Outcomes for Learners
 
 * **Beginner:** Understand LLMs, prompts, generative AI basics.
-* **Intermediate:** Build first agentic apps (Python + LangChain + N8N).
+* **Intermediate:** Build first agentic apps (Python + LangChain + LangGraph + Fast API + N8N).
 * **Advanced:** Create scalable, connected agentic ecosystems (RAG, vector DBs, MCP).
 
 
