@@ -33,6 +33,8 @@ Learn the *principles of agency*, then apply them using frameworks.
    * What makes a system “agentic”?
    * Reasoning, tool use, memory, autonomy, feedback loops.
   
+Learn some re-requisite Python packages
+  
 Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
 5. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
