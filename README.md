@@ -37,11 +37,11 @@ Learn some *Pre-requisite* Python packages
 
 5. [**Pydantic Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/README.md)
 
-   * data validation classes
+   * Fast Data Validation, Typing to specific data types and Attaching conditions
 
 6. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
 
-    * Basic forms for data collection and testing
+    * Basic forms for data collection and prototyping, Creating Visualizations, Reports and Simple dashboards
 
 7. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
 
