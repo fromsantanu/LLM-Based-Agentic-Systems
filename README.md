@@ -26,14 +26,14 @@ Goal: Build conceptual clarity about LLMs, Generative AI, and what “agentic sy
 
 ## ⚙️ Intermediate Level (Agentic Thinking + Tools)
 
-Goal: Learn the *principles of agency*, then apply them using frameworks.
+Learn the *principles of agency*, then apply them using frameworks.
 
 4. [**Principles of Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/AGENTSYS/README.md)
 
    * What makes a system “agentic”?
    * Reasoning, tool use, memory, autonomy, feedback loops.
   
-Agentic System Development With Code - Flexible, Fast Performance and Higher Control - Suitable for Building Production Ready Systems
+Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
 5. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
 6. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
@@ -43,12 +43,14 @@ Agentic System Development With Code - Flexible, Fast Performance and Higher Con
    * Agents, tools, chains.
    * Calling APIs, adding reasoning steps, memory modules.
   
-Agentic System Development Without Code - Best for Prototyping, Trying out ideas and Showing POC to client also for Smaller projects
+Agentic System Development Without Code - Best for *Prototyping*, *Trying out ideas* and *Showing POC* to client also for *Smaller projects*
 
 9. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 
    * No-code workflows.
    * Integrating AI blocks, APIs, and external services.
+  
+It is always better to follow *Best Practices* 
   
 10. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
