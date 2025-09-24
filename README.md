@@ -53,15 +53,15 @@ Agentic System Development With Code - *Flexible, Fast Performance and Higher Co
 0. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
 10. [**LangGraph Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangGraphBA/README.md)
 
-   * Agents, tools, chains.
-   * Calling APIs, adding reasoning steps, memory modules.
+    * Agents, tools, chains.
+    * Calling APIs, adding reasoning steps, memory modules.
   
 Agentic System Development Without Code - Best for *Prototyping*, *Trying out ideas* and *Showing POC* to client also for *Smaller projects*
 
 11. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 
-   * No-code workflows.
-   * Integrating AI blocks, APIs, and external services.
+    * No-code workflows.
+    * Integrating AI blocks, APIs, and external services.
   
 It is always better to follow *Best Practices* 
   
