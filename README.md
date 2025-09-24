@@ -34,14 +34,24 @@ Learn the *principles of agency*, then apply them using frameworks.
    * Reasoning, tool use, memory, autonomy, feedback loops.
   
 Learn some re-requisite Python packages
+5. [**Pydantic Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/README.md)
+
+   * data validation classes
+
+6. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
+
+  * Basic forms for data collection and testing
+
+8. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
+
+  * Developing REST APIs and services
   
 Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
 5. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
 6. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
 7. [**LangGraph Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangGraphBA/README.md)
-8. [**Fast API Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
-   
+
    * Agents, tools, chains.
    * Calling APIs, adding reasoning steps, memory modules.
   
