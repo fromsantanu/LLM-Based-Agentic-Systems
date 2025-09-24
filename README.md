@@ -30,8 +30,8 @@ Learn the *principles of agency*, then apply them using frameworks
 
 4. [**Principles of Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/AGENTSYS/README.md)
 
-   * What makes a system “agentic”?
-   * Reasoning, tool use, memory, autonomy, feedback loops.
+    * What makes a system “agentic”?
+    * Reasoning, tool use, memory, autonomy, feedback loops.
   
 Learn some *Pre-requisite* Python packages
 
@@ -41,11 +41,11 @@ Learn some *Pre-requisite* Python packages
 
 6. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
 
-  * Basic forms for data collection and testing
+    * Basic forms for data collection and testing
 
 8. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
 
-  * Developing REST APIs and services
+    * Developing REST APIs and services
   
 Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
