@@ -34,16 +34,17 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
    * Reasoning, tool use, memory, autonomy, feedback loops.
 
 5. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
+6. [**Langchain Tutorial - From Biginner to Advanced](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
 
    * Agents, tools, chains.
    * Calling APIs, adding reasoning steps, memory modules.
 
-6. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
+7. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 
    * No-code workflows.
    * Integrating AI blocks, APIs, and external services.
   
-7. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
+8. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
    * Twenty proven strategies that had been found to be easy to design and working efficiently.
    * Categorized under four different groups
@@ -53,24 +54,24 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
 
 Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 
-8. [**Retrieval Augmented Generation (RAG)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
+9. [**Retrieval Augmented Generation (RAG)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
 
    * Why retrieval is critical.
    * Architecture: embeddings → vector DB → retrieval → augmentation.
 
-9. [**Learning ChromaDB with Python**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/README.md)
+10. [**Learning ChromaDB with Python**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/README.md)
 
    * Setup, storing embeddings, querying.
 
-10. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
+11. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
 
     * Alternative to Chroma, scaling, advanced indexing.
 
-11. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
+12. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
 
     * Why MCP matters (standardization of tool/agent interactions).
 
-12. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
+13. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
 
     * How MCP integrates with LangChain/N8N.
     * Real-world interoperability.
