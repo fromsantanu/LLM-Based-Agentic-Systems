@@ -43,7 +43,7 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
    * Agents, tools, chains.
    * Calling APIs, adding reasoning steps, memory modules.
   
-#### Agentic System Development Without Code - Best for Prototyping and Trying out ideas - Showing POC
+#### Agentic System Development Without Code - Best for Prototyping, Trying out ideas and Showing POC to client also Suitable for smaller projects
 
 9. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 
