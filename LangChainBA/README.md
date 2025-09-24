@@ -154,7 +154,7 @@
 
   * Graceful fallbacks when LLM calls fail
 
-👉 *Example*: [Debug a chatbot that sometimes hallucinates by adding reference citations.](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/e00.md)
+👉 *Example*: [Debug a chatbot that sometimes hallucinates by adding reference citations.](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/e09.md)
 
 ---
 
