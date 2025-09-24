@@ -34,17 +34,19 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
    * Reasoning, tool use, memory, autonomy, feedback loops.
 
 5. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
-6. [**Langchain Tutorial - From Biginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
-
+6. [**Langchain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
+7. [**LangGraph Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangGraphBA/README.md)
+8. [**Fast API Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
+   
    * Agents, tools, chains.
    * Calling APIs, adding reasoning steps, memory modules.
 
-7. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
+8. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 
    * No-code workflows.
    * Integrating AI blocks, APIs, and external services.
   
-8. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
+9. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
    * Twenty proven strategies that had been found to be easy to design and working efficiently.
    * Categorized under four different groups
