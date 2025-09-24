@@ -34,7 +34,7 @@ Goal: Learn the *principles of agency*, then apply them using frameworks.
    * Reasoning, tool use, memory, autonomy, feedback loops.
 
 5. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
-6. [**Langchain Tutorial - From Biginner to Advanced](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
+6. [**Langchain Tutorial - From Biginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
 
    * Agents, tools, chains.
    * Calling APIs, adding reasoning steps, memory modules.
