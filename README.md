@@ -26,7 +26,7 @@ Goal: Build conceptual clarity about LLMs, Generative AI, and what “agentic sy
 
 ## ⚙️ Intermediate Level (Agentic Thinking + Tools)
 
-Learn the *principles of agency*, then apply them using frameworks.
+Learn the *principles of agency*, then apply them using frameworks
 
 4. [**Principles of Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/AGENTSYS/README.md)
 
