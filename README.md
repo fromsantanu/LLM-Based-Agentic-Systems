@@ -41,7 +41,7 @@ Learn some *Pre-requisite* Python packages
 
 6. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
 
-    * Basic forms for data collection and prototyping, Creating Visualizations, Reports and Simple dashboards
+    * Basic forms for data collection and prototyping, Creating visualizations, Reports and simple dashboards
 
 7. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
 
