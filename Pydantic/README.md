@@ -1,6 +1,6 @@
 # 📘 Pydantic Tutorial for Agentic Systems
 
-### [1. **Introduction to Pydantic in Agentic Workflows**](#)
+### [1. **Introduction to Pydantic in Agentic Workflows**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p01.md)
 
 * Why structured validation is critical in multi-agent systems
 * Overview of Pydantic models vs plain Python dataclasses
@@ -8,7 +8,7 @@
 
 ---
 
-### [2. **Defining Models for Agent Inputs and Outputs**](#)
+### [2. **Defining Models for Agent Inputs and Outputs**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p02.md)
 
 * Using `BaseModel` to enforce structure
 * Required vs optional fields (`Optional`, `default_factory`)
@@ -16,7 +16,7 @@
 
 ---
 
-### [3. **Validation in Multi-Agent Communication**](#)
+### [3. **Validation in Multi-Agent Communication**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p03.md)
 
 * Automatic type conversion (str → int, etc.)
 * Custom validators for domain logic
@@ -24,7 +24,7 @@
 
 ---
 
-### [4. **Nested Models for Hierarchical Agents**](#)
+### [4. **Nested Models for Hierarchical Agents**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p04.md)
 
 * Composing models inside models
 * Handling complex agent pipelines
@@ -32,21 +32,21 @@
 
 ---
 
-### [5. **Enums for Controlled Agent Decisions**](#)
+### [5. **Enums for Controlled Agent Decisions**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p05.md)
 
 * Using `Enum` to restrict choices
 * Example: `TriageLevel = Enum("low", "medium", "high")` for urgency classification.
 
 ---
 
-### [6. **Custom Validation with `field_validator` & `model_validator`**](#)
+### [6. **Custom Validation with `field_validator` & `model_validator`**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p06.md)
 
 * Enforcing domain rules
 * Example: Validate `eGFR` (kidney test) ≥ 30 if `TestType = ContrastCT`.
 
 ---
 
-### [7. **Handling Dynamic Data with `Field`, `Alias`, and `Computed Fields`**](#)
+### [7. **Handling Dynamic Data with `Field`, `Alias`, and `Computed Fields`**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p07.md)
 
 * Aliases for integrating with external APIs
 * Computed fields for derived attributes
@@ -54,56 +54,56 @@
 
 ---
 
-### [8. **Schema Generation for Inter-Agent Contracts**](#)
+### [8. **Schema Generation for Inter-Agent Contracts**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p08.md)
 
 * Generating JSON schema for model exchange
 * Example: Define standard schema for `TestOrderPlacer` agent → export JSON schema to validate incoming requests from external HIS/LIS.
 
 ---
 
-### [9. **Data Serialization & Deserialization**](#)
+### [9. **Data Serialization & Deserialization**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p09.md)
 
 * `.dict()`, `.json()`, and parsing external API data
 * Example: Convert `ResultIngestionModel` into JSON to push to EMR.
 
 ---
 
-### [10. **Error Handling & Custom Exceptions**](#)
+### [10. **Error Handling & Custom Exceptions**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p10.md)
 
 * `ValidationError` handling in agent pipelines
 * Example: Compliance agent rejects request if insurance rules not met → return structured error response.
 
 ---
 
-### [11. **Performance Considerations in High-Throughput Agent Systems**](#)
+### [11. **Performance Considerations in High-Throughput Agent Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p11.md)
 
 * Model caching, avoiding redundant parsing
 * Example: Processing thousands of patient check-ins daily → queue validation with Pydantic V2 performance improvements.
 
 ---
 
-### [12. **Integrating Pydantic with FastAPI (Backend Layer for Agents)**](#)
+### [12. **Integrating Pydantic with FastAPI (Backend Layer for Agents)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p12.md)
 
 * Auto-docs with OpenAPI & validation
 * Example: FastAPI endpoint `/diagnosis` accepts `DiagnosticInputModel`, validates before invoking LangGraph workflow.
 
 ---
 
-### [13. **Pydantic with LangChain & LangGraph**](#)
+### [13. **Pydantic with LangChain & LangGraph**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p13.md)
 
 * Using Pydantic models to define structured prompts & outputs
 * Example: `TranslatorAgent` takes `raw_text` → outputs `StructuredSymptomsModel` to downstream `DiagnosticAgent`.
 
 ---
 
-### [14. **Advanced: Dynamic Models for Adaptive Agents**](#)
+### [14. **Advanced: Dynamic Models for Adaptive Agents**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p14.md)
 
 * Creating models at runtime (`create_model`)
 * Example: AI-driven rule engine dynamically builds a `TestRequestModel` depending on patient’s complaint.
 
 ---
 
-### [15. **Case Study: Agentic Hospital Workflow**](#)
+### [15. **Case Study: Agentic Hospital Workflow**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/p15.md)
 
 * Combining all concepts into one pipeline:
 
