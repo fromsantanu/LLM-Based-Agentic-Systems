@@ -10,7 +10,7 @@
 
 ---
 
-## 2. **Core Building Blocks**
+## 2. [**Core Building Blocks**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p02.md)
 
 * Path parameters (e.g., `/items/{id}`).
 * Query parameters (e.g., `/items?name=apple&price=10`).
@@ -21,7 +21,7 @@
 
 ---
 
-## 3. **Data Validation & Serialization**
+## 3. [**Data Validation & Serialization**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p03.md)
 
 * Field validation with **Pydantic** (`min_length`, `regex`, `ge`, `le`).
 * Nested models.
@@ -31,7 +31,7 @@
 
 ---
 
-## 4. **Dependency Injection**
+## 4. [**Dependency Injection**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p04.md)
 
 * `Depends()` function for reusable logic.
 * Using dependencies for authentication.
@@ -40,7 +40,7 @@
 
 ---
 
-## 5. **Request Handling**
+## 5. [**Request Handling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p05.md)
 
 * Form data submission (`Form`).
 * File uploads (`File`, `UploadFile`).
@@ -49,7 +49,7 @@
 
 ---
 
-## 6. **Response Handling**
+## 6. [**Response Handling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p06.md)
 
 * Custom response types (`JSONResponse`, `HTMLResponse`, `PlainTextResponse`).
 * Streaming responses.
@@ -58,7 +58,7 @@
 
 ---
 
-## 7. **Authentication & Authorization**
+## 7. [**Authentication & Authorization**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p07.md)
 
 * Basic authentication.
 * OAuth2 with password flow.
@@ -68,7 +68,7 @@
 
 ---
 
-## 8. **Database Integration**
+## 8. [**Database Integration**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p08.md)
 
 * SQL Databases (SQLite, PostgreSQL, MySQL) with **SQLAlchemy**.
 * ORM with **SQLModel** (FastAPI-native ORM).
@@ -77,7 +77,7 @@
 
 ---
 
-## 9. **Background Tasks & Scheduling**
+## 9. [**Background Tasks & Scheduling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p09.md)
 
 * Using `BackgroundTasks` for sending emails, logs.
 * Async tasks with Celery & Redis.
@@ -86,7 +86,7 @@
 
 ---
 
-## 10. **Middleware**
+## 10. [**Middleware**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p10.md)
 
 * Custom middleware.
 * CORS setup.
@@ -95,7 +95,7 @@
 
 ---
 
-## 11. **Error Handling**
+## 11. [**Error Handling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p11.md)
 
 * Raising `HTTPException`.
 * Custom exception handlers.
@@ -104,7 +104,7 @@
 
 ---
 
-## 12. **Testing**
+## 12. [**Testing**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p12.md)
 
 * Testing with **pytest**.
 * Using `TestClient` from FastAPI.
@@ -113,7 +113,7 @@
 
 ---
 
-## 13. **Asynchronous Programming**
+## 13. [**Asynchronous Programming**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p13.md)
 
 * `async` vs `sync` routes.
 * Async database queries.
@@ -122,7 +122,7 @@
 
 ---
 
-## 14. **WebSockets & Real-Time Apps**
+## 14. [**WebSockets & Real-Time Apps**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p14.md)
 
 * WebSocket routes in FastAPI.
 * Building a chat app with WebSockets.
@@ -130,7 +130,7 @@
 
 ---
 
-## 15. **Event Handling**
+## 15. [**Event Handling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p15.md)
 
 * Startup & shutdown events.
 * Database connection pooling.
@@ -138,7 +138,7 @@
 
 ---
 
-## 16. **FastAPI with Frontend**
+## 16. [**FastAPI with Frontend**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p16.md)
 
 * Returning HTML templates with Jinja2.
 * Serving static files.
@@ -146,7 +146,7 @@
 
 ---
 
-## 17. **Security Features**
+## 17. [**Security Features**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p17.md)
 
 * Password hashing with **bcrypt**.
 * CSRF protection.
@@ -155,7 +155,7 @@
 
 ---
 
-## 18. **Documentation & Schema**
+## 18. [**Documentation & Schema**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p18.md)
 
 * OpenAPI & Swagger UI.
 * API docs with Redoc.
@@ -164,7 +164,7 @@
 
 ---
 
-## 19. **Microservices & Scaling**
+## 19. [**Microservices & Scaling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p19.md)
 
 * FastAPI in Docker.
 * API Gateway design with FastAPI.
@@ -173,7 +173,7 @@
 
 ---
 
-## 20. **Performance & Optimization**
+## 20. [**Performance & Optimization**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p20.md)
 
 * Using async properly.
 * Connection pooling for DB.
@@ -183,7 +183,7 @@
 
 ---
 
-## 21. **Advanced Features**
+## 21. [**Advanced Features**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p21.md)
 
 * Custom decorators.
 * Event-driven design with Kafka/RabbitMQ.
@@ -192,7 +192,7 @@
 
 ---
 
-## 22. **Deployment**
+## 22. [**Deployment**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p22.md)
 
 * Deploying with Docker & Docker Compose.
 * Deploying on AWS/GCP/Azure.
@@ -201,7 +201,7 @@
 
 ---
 
-## 23. **Case Studies & Projects**
+## 23. [**Case Studies & Projects**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p23.md)
 
 * RESTful Todo API.
 * Authentication System with JWT.
