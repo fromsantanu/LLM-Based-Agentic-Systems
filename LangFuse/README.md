@@ -1,6 +1,6 @@
-## 🔹 **LangFuse Tutorial Topics for Agentic AI Applications**
+# **LangFuse Tutorial Topics for Agentic AI Applications**
 
-### 1. **Getting Started with LangFuse**
+## 1. [**Getting Started with LangFuse**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p01.md.md)
 
 * Introduction: What is LangFuse and why it matters in Agentic AI
 * Installing & setting up LangFuse (cloud and self-hosted options)
@@ -9,7 +9,7 @@
 
 ---
 
-### 2. **Instrumentation Basics**
+## 2. [**Instrumentation Basics**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p02.md.md)
 
 * Logging LLM calls with LangFuse
 * Capturing inputs, outputs, and intermediate reasoning steps
@@ -18,7 +18,7 @@
 
 ---
 
-### 3. **Agentic AI Context**
+## 3. [**Agentic AI Context**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p03.md.md)
 
 * Role of observability in Agentic AI workflows
 * Tracing hierarchical agents (Coordinator → Sub-agents → Tools)
@@ -27,7 +27,7 @@
 
 ---
 
-### 4. **Integrating LangFuse with Frameworks**
+## 4. [**Integrating LangFuse with Frameworks**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p04.md.md)
 
 * LangChain integration (`@traceable` decorator, callbacks)
 * LangGraph integration (capturing state transitions)
@@ -36,7 +36,7 @@
 
 ---
 
-### 5. **Evaluation & Quality Monitoring**
+## 5. [**Evaluation & Quality Monitoring**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p05.md.md)
 
 * Human-in-the-loop feedback collection in LangFuse
 * Automatic evaluations (factuality, relevance, coherence)
@@ -45,7 +45,7 @@
 
 ---
 
-### 6. **Analytics & Metrics**
+## 6. [**Analytics & Metrics**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p06.md.md)
 
 * Understanding latency, token usage, and cost monitoring
 * Aggregating metrics per agent or workflow
@@ -54,7 +54,7 @@
 
 ---
 
-### 7. **Debugging & Iteration**
+## 7. [**Debugging & Iteration**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p07.md.md)
 
 * Identifying bottlenecks in reasoning
 * Debugging failed tool calls or API integrations
@@ -63,7 +63,7 @@
 
 ---
 
-### 8. **Advanced Patterns**
+## 8. [**Advanced Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p08.md.md)
 
 * Observability for RAG pipelines (document retrieval + grounding)
 * Tracking autonomous decision-making with guardrails
@@ -72,7 +72,7 @@
 
 ---
 
-### 9. **Deployment & Scaling**
+## 9. [**Deployment & Scaling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p09.md.md)
 
 * Configuring LangFuse for production environments
 * Setting up monitoring for high-volume agent traffic
@@ -81,7 +81,7 @@
 
 ---
 
-### 10. **Case Studies & Hands-On Projects**
+## 10. [**Case Studies & Hands-On Projects**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/p10.md.md)
 
 * Tracing a healthcare triage agent
 * Debugging a multi-step research assistant
