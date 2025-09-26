@@ -1,6 +1,6 @@
 # 📘 FastAPI Development – Beginner to Advanced
 
-## 1. [**Introduction & Fundamentals**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
+## 1. [**Introduction & Fundamentals**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/p01.md)
 
 * What is FastAPI?
 * Advantages over Flask/Django (speed, async, type hints).
