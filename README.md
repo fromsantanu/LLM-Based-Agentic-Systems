@@ -44,7 +44,7 @@ Agentic System Development Without Code - Best for *Prototyping*, *Trying out id
     * Integrating AI blocks, APIs, and external services.
   
 
-### Option of develop Robust Enterprise Level Agentic Workflows with full control (for Developers only)
+### Develop Robust Enterprise Level Agentic Workflows with full control (for Developers only)
 
 #### Learn some *Pre-requisite* Python packages
 
@@ -72,7 +72,7 @@ Agentic System Development Without Code - Best for *Prototyping*, *Trying out id
 
     * Developing REST APIs and services
 
-#### Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
+#### Develop Agentic Systems (Code Option) - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
 12. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
 13. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
