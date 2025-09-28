@@ -82,7 +82,7 @@ Agentic System Development Without Code - Best for *Prototyping*, *Trying out id
     * Agents, tools, chains.
     * Calling APIs, adding reasoning steps, memory modules.
   
-#### Follow the *Best Practices* 
+### Follow the *Best Practices* 
   
 16. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
