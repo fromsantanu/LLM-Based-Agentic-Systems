@@ -35,15 +35,27 @@ Learn the *principles of agency*, then apply them using frameworks
   
 Learn some *Pre-requisite* Python packages
 
-5. [**Pydantic Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/README.md)
+5. [**Typing Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Typing/README.md)
+
+   * Type hining to the functions and expressions
+     
+6. [**Pydantic Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/README.md)
 
    * Fast Data Validation, Typing to specific data types and Attaching conditions
 
-6. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
+7. [**Re Package - For Using Regular expressions**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Re/README.md)
+   
+   * Regular expression search and replace 
+     
+8. [**Datetime Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Datetime/README.md)
+
+    * Date time calculations and extractions
+    
+9. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
 
     * Basic forms for data collection and prototyping, Creating visualizations, Reports and simple dashboards
 
-7. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
+10. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
 
     * Developing REST APIs and services
   
