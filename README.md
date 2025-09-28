@@ -36,7 +36,7 @@ Learn the *principles of agency*, then apply them using frameworks
   
 
 ### Option to develop Agentic Workflows with Now Code or Low Code
-This option is good for quick prototyping, testing ideas, small solutions
+Agentic System Development Without Code - Best for *Prototyping*, *Trying out ideas* and *Showing POC* to client also for *Smaller projects*
 
 5. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 
@@ -82,10 +82,7 @@ This option is good for quick prototyping, testing ideas, small solutions
     * Agents, tools, chains.
     * Calling APIs, adding reasoning steps, memory modules.
   
-Agentic System Development Without Code - Best for *Prototyping*, *Trying out ideas* and *Showing POC* to client also for *Smaller projects*
-
-
-It is always better to follow *Best Practices* 
+#### Follow the *Best Practices* 
   
 16. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
