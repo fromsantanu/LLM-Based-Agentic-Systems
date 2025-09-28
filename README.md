@@ -45,8 +45,8 @@ This option is good for quick prototyping, testing ideas, small solutions
   
 
 ### Option of develop Robust Enterprise Level Agentic Workflows with full control (for Developers only)
-###
-Learn some *Pre-requisite* Python packages
+
+#### Learn some *Pre-requisite* Python packages
 
 6. [**Typing Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Typing/README.md)
 
@@ -72,8 +72,7 @@ Learn some *Pre-requisite* Python packages
 
     * Developing REST APIs and services
 
-###
-Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
+#### Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
 12. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
 13. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
