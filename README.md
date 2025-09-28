@@ -45,6 +45,7 @@ Agentic System Development Without Code - Best for *Prototyping*, *Trying out id
   
 
 ### Develop Robust Enterprise Level Agentic Workflows with full control (for Developers only)
+To follow this tutorial series, it is assumed that you already have a good understanding of Python programming and are familiar with commonly used libraries such as NumPy, pandas, Matplotlib, and Seaborn. If you are new to these concepts, please start with the basics here: [link](https://github.com/fromsantanu/BPP-Main/blob/main/README.md)
 
 #### Learn some *Pre-requisite* Python packages
 
