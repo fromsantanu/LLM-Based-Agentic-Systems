@@ -26,6 +26,7 @@ Goal: Build conceptual clarity about LLMs, Generative AI, and what “agentic sy
 
 ## ⚙️ Intermediate Level (Agentic Thinking + Tools)
 
+### How Agentic System Work
 Learn the *principles of agency*, then apply them using frameworks
 
 4. [**Principles of Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/AGENTSYS/README.md)
@@ -33,49 +34,57 @@ Learn the *principles of agency*, then apply them using frameworks
     * What makes a system “agentic”?
     * Reasoning, tool use, memory, autonomy, feedback loops.
   
+
+### Option to develop Agentic Workflows with Now Code or Low Code
+This option is good for quick prototyping, testing ideas, small solutions
+
+5. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
+
+    * No-code workflows.
+    * Integrating AI blocks, APIs, and external services.
+  
+
+### Option of develop Robust Enterprise Level Agentic Workflows with full control (for Developers only)
+
 Learn some *Pre-requisite* Python packages
 
-5. [**Typing Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Typing/README.md)
+6. [**Typing Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Typing/README.md)
 
    * Type hining to the functions and expressions
      
-6. [**Pydantic Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/README.md)
+7. [**Pydantic Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/README.md)
 
    * Fast Data Validation, Typing to specific data types and Attaching conditions
 
-7. [**Re Package - For Using Regular expressions**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Re/README.md)
+8. [**Re Package - For Using Regular expressions**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Re/README.md)
    
    * Regular expression search and replace 
      
-8. [**Datetime Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Datetime/README.md)
+9. [**Datetime Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Datetime/README.md)
 
     * Date time calculations and extractions
     
-9. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
+10. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
 
     * Basic forms for data collection and prototyping, Creating visualizations, Reports and simple dashboards
 
-10. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
+11. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
 
     * Developing REST APIs and services
   
 Agentic System Development With Code - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
-11. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
-12. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
-13. [**LangGraph Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangGraphBA/README.md)
-14. [**LangFuse Tutorial - For better tracking and observability**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/README.md)
+12. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
+13. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
+14. [**LangGraph Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangGraphBA/README.md)
+15. [**LangFuse Tutorial - For better tracking and observability**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/README.md)
 
     * Agents, tools, chains.
     * Calling APIs, adding reasoning steps, memory modules.
   
 Agentic System Development Without Code - Best for *Prototyping*, *Trying out ideas* and *Showing POC* to client also for *Smaller projects*
 
-15. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
 
-    * No-code workflows.
-    * Integrating AI blocks, APIs, and external services.
-  
 It is always better to follow *Best Practices* 
   
 16. [**Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
