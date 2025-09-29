@@ -35,7 +35,7 @@ Learn the *principles of agency*, then apply them using frameworks
     * Reasoning, tool use, memory, autonomy, feedback loops.
   
 
-### Option to develop Agentic Workflows with Now Code or Low Code
+### Option to develop Agentic Workflows with No Code or Low Code
 Agentic System Development Without Code - Best for *Prototyping*, *Trying out ideas* and *Showing POC* to client also for *Smaller projects*
 
 5. [**Designing and Developing Agentic Systems with N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/N8N/README.md)
@@ -53,7 +53,7 @@ If you are new to these concepts, please start with the basics here: [link](http
 
 6. [**Typing Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Typing/README.md)
 
-   * Type hining to the functions and expressions
+   * Type hinting to the functions and expressions
      
 7. [**Pydantic Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Pydantic/README.md)
 
