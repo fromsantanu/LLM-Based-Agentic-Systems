@@ -1,4 +1,4 @@
-# 🧭 **DASH Tutorial - For Complex and Cusomizaple UI**
+# 🧭 **DASH Tutorial - For Customizable UI with Greater Control **
 
 ## [**🔹 Chapter 1: Introduction to Dash**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Dash/p01.md)
 
