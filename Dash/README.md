@@ -1,4 +1,4 @@
-# 🧭 **DASH TUTORIAL ROADMAP**
+# 🧭 **DASH Tutorial - For Complex and Cusomizaple UI**
 
 ## [**🔹 Chapter 1: Introduction to Dash**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Dash/p01.md)
 
@@ -162,8 +162,3 @@
 5. **IoT Sensor Dashboard** – Real-time temperature and humidity display
 
 ---
-
-
-
-Would you like me to now **generate the first few chapters (with example code)** — say from **Chapter 1 to 4** — to start your Dash learning path?
-
