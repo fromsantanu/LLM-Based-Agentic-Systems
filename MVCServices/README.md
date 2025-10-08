@@ -112,12 +112,12 @@
 * Learn: defensive checks in services; sanitize inputs; limit query sizes.
 * Lab: Reject orders with negative quantities; clamp pagination.
 
-19. [**Packaging & Reuse**
+19. [**Packaging & Reuse**](#)
 
 * Learn: turn `models/` into an installable package for multiple apps.
 * Lab: Create `pyproject.toml`; import services from another app.
 
-20. **CI/CD & Quality Gates**](#)
+20. [**CI/CD & Quality Gates**](#)
 
 * Learn: pytest, coverage, ruff/flake8, mypy, pre-commit.
 * Lab: Add GitHub Actions workflow to run tests + lint + type-check.
