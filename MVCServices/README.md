@@ -1,6 +1,6 @@
 # **MVC (Model-View-Controller) with Dash & Streamlit**
 
-# Part 1 — Core Foundations (applies to both Dash & Streamlit)
+## Part 1 — Core Foundations (applies to both Dash & Streamlit)
 
 1. [**Project Structure & Layering**](#)
 
@@ -46,7 +46,7 @@
 
 ---
 
-# Part 2 — Dash Track (controller = callbacks)
+## Part 2 — Dash Track (controller = callbacks)
 
 8. [**View Layer in Dash**](#)
 
@@ -70,7 +70,7 @@
 
 ---
 
-# Part 3 — Streamlit Track (controller = actions + session_state)
+## Part 3 — Streamlit Track (controller = actions + session_state)
 
 12. [**View Layer in Streamlit**](#)
 
@@ -94,7 +94,7 @@
 
 ---
 
-# Part 4 — Cross-Cutting Enhancements
+## Part 4 — Cross-Cutting Enhancements
 
 16. [**Async Services (optional)**](#)
 
