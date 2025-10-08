@@ -165,5 +165,3 @@
 3. Multipage → Caching/Performance → Auth → CI/CD
 
 ---
-
-If you tell me which track you want to start with (**Dash or Streamlit**) and your first 2–3 pages/entities, I’ll spin up a **starter repo** (files + tests + README) following this curriculum so you can learn by editing real code.
