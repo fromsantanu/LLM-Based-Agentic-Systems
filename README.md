@@ -92,7 +92,7 @@ If you are new to these concepts, please start with the basics here: [link](http
 ### Follow archtectural *Best Practices* 
   
 17. [MVC Design Principles with Dash/Streamlit and API Service Calls](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCServices/README.md)
-18. [Design Principles with FastAPI/Database/Dash/Streamlit and Agentic Setup](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCAgentic/README.md)
+18. [Design Principles with FastAPI/Database/Dash/Streamlit/Langchain Group and Implementing Complete Agentic Setup](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCAgentic/README.md)
 19. [**Twenty Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
 ---
