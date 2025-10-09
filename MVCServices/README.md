@@ -127,6 +127,11 @@
 * Learn: README patterns, architecture diagram, ADRs (decision records).
 * Lab: Add a “How to add a new page/service” guide to README.
 
+21. [**Prompting LLMs to Generate MVC Structure**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCServices/p22.md)
+
+* Learn: How to prompt LLMs to progressively generate MVC Structure.
+
+
 ---
 
 ## Reading & Editing Generated Code — Checklist
