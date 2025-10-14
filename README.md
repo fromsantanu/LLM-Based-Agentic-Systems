@@ -78,6 +78,10 @@ If you are new to these concepts, please start with the basics here: [link](http
 12. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
 
     * Developing REST APIs and services
+   
+13. [**SQLAlchemy Package - Connecting to RDBMS**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/SQLAlchemy/README.md)
+
+    * Connecting to RDBMS Servers and Databases    
 
 #### Develop Agentic Systems (Code Option) - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
