@@ -1,4 +1,4 @@
-# SQLAlchemy Package - Connecting to Databases
+# SQLAlchemy Package - Connecting to RDBMS Databases
 
 ## 🧩 **Part 1 — Foundations of SQLAlchemy**
 
