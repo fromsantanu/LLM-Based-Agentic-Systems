@@ -1,3 +1,0 @@
-# N8N-Workflow Backups
-
-The folder contains all N8N Workflow Backups which can be used as Demo ...
