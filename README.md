@@ -43,6 +43,10 @@ Agentic System Development Without Code - Best for *Prototyping*, *Trying out id
     * No-code workflows.
     * Integrating AI blocks, APIs, and external services.
   
+6. [**Coding in Javascript for N8N**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/README.md)
+
+    * Basic coding requirements in Javascript for using N8N.
+  
 
 ### Develop Robust Enterprise Level Agentic Workflows with full control (for Developers only)
 To follow this tutorial series, it is assumed that you already have a good understanding of Python programming and are familiar with commonly used libraries such as NumPy, pandas, Matplotlib, and Seaborn. 
