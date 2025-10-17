@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 1. [**Core Concepts You Actually Need**](#)
+## 🧠 1. [**Core Concepts You Actually Need**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p01.md)
 
 These are the minimum foundations to understand and write clean logic inside **Function / Code** nodes.
 
@@ -19,7 +19,7 @@ These are the minimum foundations to understand and write clean logic inside **F
 
 ---
 
-## 🧱 2. [**Working with JSON (Most Important for n8n)**](#)
+## 🧱 2. [**Working with JSON (Most Important for n8n)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p02.md)
 
 Because **all n8n data is JSON**, this is your daily bread 🍞
 
@@ -41,7 +41,7 @@ return [{ json: updated }];
 
 ---
 
-## 🔁 3. [**Arrays and Data Transformation**](#)
+## 🔁 3. [**Arrays and Data Transformation**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p03.md)
 
 Most workflows process **lists of items**, so mastering arrays is essential.
 
@@ -60,7 +60,7 @@ return items.filter(item => item.json.priority === "high");
 
 ---
 
-## 🧰 4. [**n8n Special Variables and Helpers**](#)
+## 🧰 4. [**n8n Special Variables and Helpers**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p04.md)
 
 n8n gives you some preloaded variables inside the Function node.
 
@@ -80,7 +80,7 @@ const doctorNote = $node["Doctor Form"].json.note;
 
 ---
 
-## 🌐 5. [**APIs and HTTP Requests (Optional but Powerful)**](#)
+## 🌐 5. [**APIs and HTTP Requests (Optional but Powerful)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p05.md)
 
 You’ll often send or receive data from other systems.
 
@@ -103,7 +103,7 @@ return [{ json: await res.json() }];
 
 ---
 
-## 🧮 6. [**Date and Time Handling**](#)
+## 🧮 6. [**Date and Time Handling**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p06.md)
 
 Common in workflows — timestamping logs, delays, comparisons.
 
@@ -122,7 +122,7 @@ return [{ json: $json }];
 
 ---
 
-## 🧩 7. [**Error Handling and Validation**](#)
+## 🧩 7. [**Error Handling and Validation**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p07.md)
 
 Keep your workflow safe.
 
@@ -133,7 +133,7 @@ Keep your workflow safe.
 
 ---
 
-## ⚙️ 8. [**Reusable Logic and Mini-Functions**](#)
+## ⚙️ 8. [**Reusable Logic and Mini-Functions**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p08.md)
 
 When your logic grows, split it nicely.
 
@@ -153,7 +153,7 @@ return items.map(addFlag);
 
 ---
 
-## 🔄 9. [**Asynchronous Operations (Advanced)**](#)
+## 🔄 9. [**Asynchronous Operations (Advanced)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p09.md)
 
 Useful when you need to **wait** for APIs or delays.
 
@@ -163,7 +163,7 @@ Useful when you need to **wait** for APIs or delays.
 
 ---
 
-## 🧩 10. [**Putting It All Together**](#)
+## 🧩 10. [**Putting It All Together**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/JSForN8N/p10.md)
 
 Mini projects for practice:
 
