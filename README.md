@@ -48,12 +48,12 @@ Agentic System Development Without Code - Best for *Prototyping*, *Trying out id
     * Basic coding requirements in Javascript for using N8N.
   
 
-### Develop Robust Enterprise Level Agentic Workflows with full control (for Developers only)
+### Develop Robust Enterprise Level Agentic Workflows with full control (*for Developers only*) with Python
 To follow this tutorial series, it is assumed that you already have a good understanding of Python programming and are familiar with commonly used libraries such as NumPy, pandas, Matplotlib, and Seaborn. 
 
 If you are new to these concepts, please start with the basics here: [link](https://github.com/fromsantanu/BPP-Main/blob/main/README.md)
 
-#### Building Backend functions
+#### Building Backend functions with various *foundational* packages
 
 7. [**Typing Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Typing/README.md)
 
@@ -71,7 +71,7 @@ If you are new to these concepts, please start with the basics here: [link](http
 
     * Date time calculations and extractions
     
-#### Building REST API Webservices With FastAPI, PyJWT, SQLAlchemy and Alembic
+#### Building *REST API Web Services* With FastAPI, PyJWT, SQLAlchemy and Alembic
 
 11. [**Fast API Package - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/FastAPI/README.md)
 
@@ -89,7 +89,7 @@ If you are new to these concepts, please start with the basics here: [link](http
 
     * Building Data Migration Scripts
    
-#### Building Workflows for Job submission, polling and Monitoring (Synchronous and Asynchronous Messaging Control) with Python Echosystem
+#### Building Workflows for Job submission, polling and Monitoring (*Synchronous and Asynchronous Messaging Control*)
 
 15. [**Redis, RQ, ARQ and RQ Workers Package - Job submission and Control**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/WorkFlowMgMt/README.md)
 
