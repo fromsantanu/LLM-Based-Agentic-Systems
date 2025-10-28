@@ -1,4 +1,4 @@
-# 📘 Lesson Plan: *Understanding Alembic in FastAPI Solutions*
+# 📘 **Understanding Alembic in FastAPI Solutions**
 
 ### [**Lesson 1: Introduction to Alembic**](#)
 
