@@ -96,7 +96,7 @@ If you are new to these concepts, please start with the basics here: [link](http
     * Job creation and submission
     * Polling and monitoring
    
-#### Building Frontend Clients with Streamlit and Dash
+#### Building *Frontend Client UI/UX* with Streamlit and Dash
    
 16. [**StreamLit Package - For Agentic Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/StreamLit/README.md)
 
