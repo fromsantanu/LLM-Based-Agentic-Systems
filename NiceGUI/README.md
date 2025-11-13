@@ -1,4 +1,4 @@
-# ✅ **Tutorial Series: Building Chatbots, Forms, and Dashboards with NiceGUI**
+# ✅ **Building Chatbots, Forms, and Dashboards with NiceGUI**
 
 ---
 
