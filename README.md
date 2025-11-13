@@ -104,24 +104,28 @@ If you are new to these concepts, please start with the basics here: [link](http
 
 17. [**Dash Package - For UI/Dashboard Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Dash/README.md)
 
-    * For complex and customizable UI / Dashboards / with with better control
+    * For complex and customizable UI / Dashboards / with better control
+   
+18. [**NiceGUI Package - For Chatbot/Forms/Dashboard Development**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/NiceGUI/README.md)
+
+    * For developing Chatbots / Forms UI / Dashboards .. ideal for AI with LLMs
 
 
 #### Develop Agentic Systems (Code Option) - *Flexible, Fast Performance and Higher Control* - Suitable for *Building Production Ready Systems*
 
-18. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
-19. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
-20. [**LangGraph Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangGraphBA/README.md)
-21. [**LangFuse Tutorial - For better tracking and observability**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/README.md)
+19. [**Developing Agentic Systems with Python and LangChain**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChain/README.md)
+20. [**LangChain Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangChainBA/README.md)
+21. [**LangGraph Tutorial - From Beginner to Advanced**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangGraphBA/README.md)
+22. [**LangFuse Tutorial - For better tracking and observability**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/LangFuse/README.md)
 
     * Agents, tools, chains.
     * Calling APIs, adding reasoning steps, memory modules.
   
 ### Follow archtectural *Best Practices* 
   
-22. [MVC Design Principles with Dash/Streamlit and API Service Calls](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCServices/README.md)
-23. [Design Principles with FastAPI/Database/Dash/Streamlit/Langchain Group and Implementing Complete Agentic Setup](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCAgentic/README.md)
-24. [**Twenty Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
+23. [MVC Design Principles with Dash/Streamlit and API Service Calls](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCServices/README.md)
+24. [Design Principles with FastAPI/Database/Dash/Streamlit/Langchain Group and Implementing Complete Agentic Setup](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MVCAgentic/README.md)
+25. [**Twenty Agentic Design Patterns**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/DESIGN/README.md)
 
 ---
 
@@ -129,24 +133,24 @@ If you are new to these concepts, please start with the basics here: [link](http
 
 Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 
-25. [**Retrieval Augmented Generation (RAG)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
+26. [**Retrieval Augmented Generation (RAG)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/RAG/README.md)
 
    * Why retrieval is critical.
    * Architecture: embeddings → vector DB → retrieval → augmentation.
 
-26. [**Learning ChromaDB with Python**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/README.md)
+27. [**Learning ChromaDB with Python**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/CHROMADB/README.md)
 
    * Setup, storing embeddings, querying.
 
-27. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
+28. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
 
     * Alternative to Chroma, scaling, advanced indexing.
 
-28. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
+29. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
 
     * Why MCP matters (standardization of tool/agent interactions).
 
-29. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
+30. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
 
     * How MCP integrates with LangChain/N8N.
     * Real-world interoperability.
