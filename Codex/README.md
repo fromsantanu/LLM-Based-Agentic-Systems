@@ -1,7 +1,7 @@
 ## How to use Open AI Codex in CLI mode for Smart Working
 
 ### Step 0 - Ubuntu Setup
-- Install Ubuntu and WSL - Codex only works 
+- Install Ubuntu and WSL - Codex only works on this environment.
 
 ### Step 1 - To start Ubuntu
 ```
