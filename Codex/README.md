@@ -5,7 +5,7 @@
 
 ### Step 1 - To start Ubuntu
 ```
-- wsl -d Ubuntu
+wsl -d Ubuntu
 ```
 
 ### Step 2 - To install NodeJS and curl
