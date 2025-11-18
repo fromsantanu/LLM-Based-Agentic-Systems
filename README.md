@@ -158,7 +158,7 @@ Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 ---
 
 ### Smart Working
-- [Open AI Codex - in CLI Mode](#)
+- [Open AI Codex - in CLI Mode](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Codex/READ)
 
 ## 🎯 Outcomes for Learners
 
