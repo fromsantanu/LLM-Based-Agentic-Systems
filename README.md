@@ -157,6 +157,9 @@ Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 
 ---
 
+### Smart Working
+- [Open AI Codex - in CLI Mode](#)
+
 ## 🎯 Outcomes for Learners
 
 * **Beginner:** Understand LLMs, prompts, generative AI basics.
