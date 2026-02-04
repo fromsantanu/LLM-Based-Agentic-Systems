@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-📘 Chapter 1: Introduction to Supabase
+📘 Chapter 1: [Introduction to Supabase](p01.md)
 
-📘 Chapter 2: Supabase Architecture (Big Picture)
+📘 Chapter 2: [Supabase Architecture (Big Picture)](p02.md)
 
 📘 Chapter 3: Creating a Supabase Project (Cloud)
 
