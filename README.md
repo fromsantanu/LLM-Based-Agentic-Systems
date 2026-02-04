@@ -146,8 +146,8 @@ Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 
     * Alternative to Chroma, scaling, advanced indexing.
    
-29. [**Understanding Supabase in General**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Supabase/README.md)
-30. [**Exploring Supabase Vector DB Capability](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/SupabaseVector/README.md)
+29. [**Understanding Supabase in General**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/SupaBase/README.md)
+30. [**Exploring Supabase Vector DB Capability**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/SupaBaseVector/README.md)
 
 31. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
 
