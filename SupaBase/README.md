@@ -1,4 +1,4 @@
-# Supabase Chapters
+# Supabase Tutorial (General)
 
 ## Table of Contents
 
