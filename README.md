@@ -145,12 +145,15 @@ Goal: Learn how to **extend, scale, and professionalize** agentic systems.
 28. [**Understanding Qdrant Vector DB**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/QDRANT/README.md)
 
     * Alternative to Chroma, scaling, advanced indexing.
+   
+29. [**Understanding Supabase in General**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/Supabase/README.md)
+30. [**Exploring Supabase Vector DB Capability](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/SupabaseVector/README.md)
 
-29. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
+31. [**Model Context Protocol (MCP)**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/INTROMCP/README.md)
 
     * Why MCP matters (standardization of tool/agent interactions).
 
-30. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
+32. [**Using MCP Servers with Agentic Systems**](https://github.com/fromsantanu/LLM-Based-Agentic-Systems/blob/main/MCP/README.md)
 
     * How MCP integrates with LangChain/N8N.
     * Real-world interoperability.
